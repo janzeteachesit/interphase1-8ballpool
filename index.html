@@ -13,16 +13,17 @@
 <body>
     <div id="game"></div>
     
-    <!-- orininal reference; change below to point to //cdn.jsdelivr.net/phaser-ce/2.7.5/phaser.min.js
+    <!-- orininal reference
     <script type="text/javascript">
         System.import('../../lib/phaser.js').then(function(){
             System.import('game.js');
         });
     </script>
+    Get http://cdn.jsdelivr.net/phaser-ce/2.7.5/phaser.min.js, add it to the root and reference it as below
     -->
     <script type="text/javascript">
         
-        System.import('http://cdn.jsdelivr.net/phaser-ce/2.7.5/phaser.min.js').then(function(){
+        System.import('phaser.min.js').then(function(){
             System.import('game.js');
         });
     </script>
