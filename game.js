@@ -11,10 +11,10 @@ Aquaplane.Preloader.prototype = {
         this.scale.pageAlignHorizontally = true;
 
     },
-
+// edit the assets forlder from 'assets/' to '/assets/'
     preload: function () {
 
-        this.load.path = 'assets/';
+        this.load.path = '/assets/';
 
         this.load.bitmapFont('fat-and-tiny');
         this.load.bitmapFont('interfont');
