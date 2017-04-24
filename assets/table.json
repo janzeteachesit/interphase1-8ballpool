@@ -1,0 +1,36 @@
+{ 
+    
+    "pool-table-physics-shape": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   382, 104  ,  374, 112  ,  122, 112  ,  114, 104  ,  114, 0  ,  382, 0  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   686, 104  ,  678, 112  ,  426, 112  ,  418, 104  ,  418, 0  ,  686, 0  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   712, 478  ,  704, 470  ,  704, 138  ,  712, 130  ,  800, 130  ,  800, 478  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   418, 504  ,  426, 496  ,  678, 496  ,  686, 504  ,  686, 600  ,  418, 600  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   114, 504  ,  122, 496  ,  374, 496  ,  382, 504  ,  382, 600  ,  114, 600  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   88, 130  ,  96, 138  ,  96, 470  ,  88, 478  ,  0, 478  ,  0, 130  ]
+        }
+    ]
+}
