@@ -1,4 +1,4 @@
-# Aqua Plane from Interpahse1
+# 8 Ball Pool from Interpahse1
 
 ## STEPS TO SETUP INTERPASE1 GAMES FOR EDITING (AQUAPLANE EXAMPLE)
 
